@@ -1,0 +1,15 @@
+.FilterBtn {
+    background-color: #17a2b8 !important;  
+    border-color: #17a2b8 !important;
+    color: #ffffff !important;
+}
+.FilterBtn:hover {
+    background-color: #17a2b8 !important;  
+    border-color: #17a2b8 !important;
+    color: #ffffff !important;
+}
+.FilterBtn:focus {
+    background-color: #17a2b8 !important;  
+    border-color: #17a2b8 !important;
+    color: #ffffff !important;
+}
